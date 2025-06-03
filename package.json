@@ -1,11 +1,12 @@
 {
   "name": "e2e-solution-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "API E2E testing with Cypress",
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
-    "start": "node server.js"
+    "start": "node server.js",
+    "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",
