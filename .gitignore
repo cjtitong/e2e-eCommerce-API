@@ -1,0 +1,22 @@
+# Ignore system files
+Thumbs.db
+Desktop.ini
+
+# Node.js dependencies
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# OS generated files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
